@@ -69,12 +69,5 @@ toBin.addEventListener("click", function(){
     console.log(binaryToText(strValue));
 });
 
-
-// function display(str){
-//   result.text = str;
-// }
-//console.log(binaryToText(" 01000001 01110010 01100101 01101110 0100111 01110100 0100000 01100010 01101111 01101110 01100110 01101001 01110010 01100101 01110011 0100000 01100110 01110101 01101110 0100001 0111111  "));
-//console.log(TextToBin("    Aren't bonfires fun!?  "));
-
 //let isBin =/^[0-1|\s]{1,}$/;
 //let isBin =/^([0-1]{7})\s{1,}/;
